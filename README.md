@@ -6,8 +6,6 @@ The software is a Node.js Recipe Finder that lets users enter ingredients in the
 
 I wrote this software to practice JavaScript basics like arrays, functions, recursion, and error handling, as well as using a third-party library.
 
-Software Demo Video
-
 Development Environment
 
 I used Visual Studio Code to write the code and Node.js to run the program. I also used npm to manage the project dependencies.
